@@ -23,7 +23,7 @@ Pastikan kamu memiliki `Node.js` dan `npm` atau `yarn` terinstal di komputermu.
 1. Clone repositori ini:
 
     ```bash
-    git clone https://github.com/username/repository-name.git
+    git clone https://github.com/hawary-id/react-app.git
     ```
 
 2. Masuk ke direktori proyek:
