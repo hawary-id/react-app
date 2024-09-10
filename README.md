@@ -5,7 +5,6 @@ Aplikasi web untuk menampilkan dan mencari daftar orang dengan data yang diperol
 
 - **Menampilkan daftar orang**: Menampilkan nama, umur, alamat, nomor telepon, dan gambar.
 - **Pencarian**: Fitur pencarian untuk menemukan orang berdasarkan nama, lokasi, atau nomor telepon.
-- **Pembersihan pencarian**: Tombol untuk menghapus input pencarian dan mengembalikan data ke kondisi awal.
 
 ## Teknologi yang Digunakan
 
@@ -29,7 +28,7 @@ Pastikan kamu memiliki `Node.js` dan `npm` atau `yarn` terinstal di komputermu.
 2. Masuk ke direktori proyek:
 
     ```bash
-    cd repository-name
+    cd react-app
     ```
 
 3. Install dependensi:
