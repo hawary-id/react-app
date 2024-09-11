@@ -52,3 +52,6 @@ npm start
 ```
 
 Aplikasi akan tersedia di http://localhost:3000.
+
+## License
+Proyek ini dilisensikan di bawah [MIT license](https://opensource.org/licenses/MIT).
