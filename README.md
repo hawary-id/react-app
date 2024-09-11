@@ -15,11 +15,11 @@ Aplikasi web untuk menampilkan dan mencari daftar orang dengan data yang diperol
 
 ## Prerequisites
 
-Pastikan kamu memiliki `Node.js` dan `npm` atau `yarn` terinstal di komputermu.
+Pastikan `Node.js` dan `npm` atau `yarn` terinstal di komputer.
 
 ## Instalasi
 
-1. Clone repositori ini:
+1. Clone repositori:
 
     ```bash
     git clone https://github.com/hawary-id/react-app.git
